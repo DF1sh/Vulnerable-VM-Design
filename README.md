@@ -4,7 +4,6 @@ The vulnerable virtual machine was created for a university project. Its purpose
 
 There are three distinct paths ($${\color{green}easy}$$, $${\color{orange}medium}$$, $${\color{red}hard}$$) to achieve local access and escalate privileges to root. Each path requires the attacker to first gain local access and then elevate their privileges to root, providing challenges suitable for different skill levels.
 
-### Download 
 The VM is available for download from Google Drive at the following link: [Download VM](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe) 
 
 ### Setup 🔧
